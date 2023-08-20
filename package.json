@@ -1,13 +1,13 @@
 {
   "name": "E-girlSMPLauncher",
-  "version": "2.0.5",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "version": "2.1.0",
+  "productName": "E-girlSMP Launcher",
+  "description": "A minecraft launcher for the E-girlSMP server.",
+  "author": "Zacharyoil (foxy fur)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Zacharyoil/elauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Zacharyoil/elauncher/issues"
   },
   "private": true,
   "main": "index.js",
